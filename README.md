@@ -20,13 +20,12 @@ Existe uma relação entre a faixa de renda e o nível de endividamento?
 Quais regiões do país apresentam maiores níveis de endividamento?
 
 🗂️ Estrutura de Pastas
-bash
-Copy
-Edit
+
 /data            # Bases de dados brutas e tratadas
 /notebooks       # Análises exploratórias e tratamento de dados (Jupyter Notebooks)
 /visualizations  # Gráficos gerados e dashboards
 /docs            # Documentação, referências e fontes
+
 📊 Fontes de Dados
 Banco Central do Brasil - Estatísticas de Crédito
 
