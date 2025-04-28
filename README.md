@@ -73,9 +73,9 @@ A análise visa gerar insights práticos sobre o comportamento financeiro das fa
 
 Se você quiser discutir este projeto ou colaborar em análises de dados, entre em contato:
 
-- **Nome:** [Seu Nome Aqui]
-- **LinkedIn:** [Seu LinkedIn Aqui]
-- **Email:** [Seu Email Aqui]
+- **Nome:** Carlos Henrique Ramalho
+- **LinkedIn:** https://www.linkedin.com/in/carlos-ramalho-/
+- **Email:** carlosramalho3@gmail.com
 
 ---
 
